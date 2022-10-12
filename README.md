@@ -1,6 +1,6 @@
 Jan Rafflewski
 
-Computer Science Bachelor Student at Hochschule Mannheim
+Computer Science Bachelor Student at Hochschule Mannheim and
 Firmware Developer for POWERJames GmbH
 
 Mainly C, but also C++, Java, HTML/CSS, VHDL, Assembly, Python, Javascript...
